@@ -1,0 +1,13 @@
+name: Test
+title: Test
+username:
+account: geetanjalishinyapps
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5188332
+bundleId: 5284368
+url: https://geetanjalishinyapps.shinyapps.io/Test/
+when: 1637669940.31356
+lastSyncTime: 1637669940.31356
+asMultiple: FALSE
+asStatic: FALSE
